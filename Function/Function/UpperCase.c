@@ -2,7 +2,7 @@
 #include <string.h>
 
 void UpperCase(char);
-int main()
+int main_UpperCase()
 {
 	//문자열은 1차원 배열이다.
 	char buf[] = "i am a student";
